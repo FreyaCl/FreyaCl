@@ -1,3 +1,3 @@
 - 👋 Hi!
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning c#, bash
+- 👀 I’m interested in solana, web3
+- more updates coming soon...
